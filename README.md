@@ -1,4 +1,5 @@
 - Praticando comandos git
+- commit 
 
 Link de referencias: 
 https://www.youtube.com/watch?v=yYmVfYgPd44&list=PLlAbYrWSYTiPA2iEiQ2PF_A9j__C4hi0A&index=8
