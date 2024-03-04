@@ -21,7 +21,9 @@ Link de referencias:
 
 [Readme, como escreve-lo](https://www.alura.com.br/artigos/escrever-bom-readme?_gl=1*1n61tk0*_ga*ODE5MTI4NTk1LjE3MDEzMDMxMzY.*_ga_1EPWSW3PCS*MTcwOTU4NTg3Mi4xMDIuMS4xNzA5NTg3MTQwLjAuMC4w*_fplc*aW05Y21UbGVxdnd5diUyQkVrM2tBUHY3VnYxNHpucFFLMm4zREtiN1owVXNqSHNxdkV5d1RmazhZJTJGcVNlREIyWTVybjJXZG02MjN0WXF3RjJrbXd1MUp4RlN5JTJCeWJzdU5Ia1dUdEEzdXppYkU1dkJVWlFpM2w0RGFRQkVqbWhnJTNEJTNE)
 
-[]()
+[Como resolver conflitos de mesclagem](https://learn.microsoft.com/pt-br/visualstudio/version-control/git-resolve-conflicts?view=vs-2022)
+
+
 
 
 
