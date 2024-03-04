@@ -23,7 +23,7 @@ Link de referencias:
 
 [Como resolver conflitos de mesclagem](https://learn.microsoft.com/pt-br/visualstudio/version-control/git-resolve-conflicts?view=vs-2022)
 
-
+[Gerador_gitignore](https://www.toptal.com/developers/gitignore/)
 
 
 
